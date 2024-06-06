@@ -9,3 +9,6 @@ swap/*
 # definición para ignorar la carpeta 
 
 log/
+
+#linea de pruebas de commit a main
+
