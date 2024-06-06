@@ -1,0 +1,11 @@
+# . gitignore
+
+#definición para ignorar archivos tipo .txt
+*.txt
+
+# definición para ignorar todo el contenido de la carpeta swap
+swap/*
+
+# definición para ignorar la carpeta 
+
+log/
